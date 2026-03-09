@@ -19,7 +19,7 @@ body{
     color: white;
     padding: 20px;
     box-sizing: border-box;
-    text-align: center;
+    text-align: left;
 }
 
 .sidebar h2 {
@@ -123,3 +123,4 @@ ol, ul{
     padding-left: 20px;
 
 }
+
