@@ -118,7 +118,13 @@ body{
     text-align: left;
     padding: 0px;
     margin-left: 0px;
-
 }
+.reverse{
+    display: inline-block;
+    transform: scaleX(-1);
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
 
 
