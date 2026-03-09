@@ -32,10 +32,8 @@ body{
     width: 100%;
     margin: 10px 0;
     padding: 10px;
-    background-color: #505050;
     color: white;
     border: none;
-    cursor: pointer;
     font-size: 16px;
     text-decoration: none;
 }
@@ -43,8 +41,8 @@ body{
     list-style-type: none;
     padding: 0;
 }
-.sidebar a:hover {
-    background-color: #999999;
+.active a {
+    color: #007bff;
 }
 .content {
     padding-top: 50px;
@@ -92,4 +90,5 @@ h2{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+
 }
