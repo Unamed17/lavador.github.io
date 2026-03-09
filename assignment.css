@@ -32,7 +32,6 @@ body{
     width: 100%;
     margin: 10px 0;
     padding: 10px;
-    background-color: #505050;
     color: white;
     border: none;
     cursor: pointer;
@@ -118,3 +117,4 @@ ol, ul{
     padding-left: 20px;
 
 }
+
