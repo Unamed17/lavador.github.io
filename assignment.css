@@ -42,7 +42,7 @@ body{
     padding: 0;
 }
 .active a {
-    background-color: #007bff;
+    color: #007bff;
 }
 .content {
     padding-top: 50px;
@@ -116,5 +116,6 @@ ol, ul{
     padding-left: 20px;
 
 }
+
 
 
