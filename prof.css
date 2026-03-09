@@ -85,7 +85,7 @@ body{
 #pad{
     padding-top: 20px;
 }
-hr {
+.content hr {
     margin: 20px auto;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -120,4 +120,5 @@ hr {
     margin-left: 0px;
 
 }
+
 
