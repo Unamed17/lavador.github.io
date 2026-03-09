@@ -43,8 +43,8 @@ body{
     list-style-type: none;
     padding: 0;
 }
-.sidebar a:hover {
-    background-color: #999999;
+.active a {
+    background-color: #007bff;
 }
 .content {
     padding-top: 50px;
@@ -116,4 +116,5 @@ ol, ul{
     margin-bottom: 0px;
     padding: 0px;
     padding-left: 20px;
+
 }
