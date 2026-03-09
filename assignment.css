@@ -34,7 +34,6 @@ body{
     padding: 10px;
     color: white;
     border: none;
-    cursor: pointer;
     font-size: 16px;
     text-decoration: none;
 }
@@ -117,4 +116,5 @@ ol, ul{
     padding-left: 20px;
 
 }
+
 
